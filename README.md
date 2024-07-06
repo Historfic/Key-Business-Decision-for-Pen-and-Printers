@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-In this project, I analyze the sales performance of a new office stationery line using Emails, Calls, and "Email + Call." With 15,000 observations from the sales tracking system. I assess the effectiveness of each method based on sales data collected over 6 weeks for business strategy and insights
+In this project, I analyze the sales performance of a new office stationery line using Emails, Calls, and "Email + Call." With 15,000 observations from the sales tracking system. I assess the effectiveness of each method based on sales data collected over 6 weeks for business strategy and insights. Visualize the business metrics to choose the best method for the company.
 
 ## 📝 Task List
 
